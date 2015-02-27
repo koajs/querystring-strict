@@ -3,6 +3,7 @@ querystring-strict
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
+[![appveyor build status][appveyor-image]][appveyor-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Gittip][gittip-image]][gittip-url]
 [![David deps][david-image]][david-url]
@@ -14,6 +15,8 @@ querystring-strict
 [npm-url]: https://npmjs.org/package/querystring-strict
 [travis-image]: https://img.shields.io/travis/koajs/querystring-strict.svg?style=flat-square
 [travis-url]: https://travis-ci.org/koajs/querystring-strict
+[appveyor-image]: https://ci.appveyor.com/api/projects/status/ija0bd5d7esb54x3?svg=true
+[appveyor-url]: https://ci.appveyor.com/project/fengmk2/querystring-strict
 [coveralls-image]: https://img.shields.io/coveralls/koajs/querystring-strict.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/r/koajs/querystring-strict?branch=master
 [gittip-image]: https://img.shields.io/gittip/fengmk2.svg?style=flat-square
