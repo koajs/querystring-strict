@@ -1,3 +1,11 @@
+# THIS REPOSITORY IS NOW DEPRECATED
+
+This module had been merged into [koa-qs](https://github.com/koajs/qs), please use the `strict` mode.
+
+```js
+require('koa-qs')(app, 'strict')
+```
+
 querystring-strict
 =======
 
@@ -11,8 +19,8 @@ querystring-strict
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/querystring-strict.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/querystring-strict
+[npm-image]: https://img.shields.io/npm/v/koa-querystring-strict.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-querystring-strict
 [travis-image]: https://img.shields.io/travis/koajs/querystring-strict.svg?style=flat-square
 [travis-url]: https://travis-ci.org/koajs/querystring-strict
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/ija0bd5d7esb54x3?svg=true
@@ -27,8 +35,8 @@ querystring-strict
 [iojs-url]: http://iojs.org/
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.11-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
-[download-image]: https://img.shields.io/npm/dm/querystring-strict.svg?style=flat-square
-[download-url]: https://npmjs.org/package/querystring-strict
+[download-image]: https://img.shields.io/npm/dm/koa-querystring-strict.svg?style=flat-square
+[download-url]: https://npmjs.org/package/koa-querystring-strict
 
 This patches a koa app with `this.query.foo` return strict `string`. Disable multi values.
 
