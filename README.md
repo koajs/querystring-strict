@@ -1,9 +1,9 @@
 # THIS REPOSITORY IS NOW DEPRECATED
 
-This module had been merged into [koa-qs](https://github.com/koajs/qs), please use the `strict` mode.
+This module had been merged into [koa-qs](https://github.com/koajs/qs), please use the `first` mode.
 
 ```js
-require('koa-qs')(app, 'strict')
+require('koa-qs')(app, 'first')
 ```
 
 querystring-strict
