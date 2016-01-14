@@ -21,7 +21,7 @@
     "autod": "*",
     "contributors": "*",
     "istanbul-harmony": "*",
-    "jshint": "*",
+    "jshint": "2.9.1",
     "koa": "*",
     "mocha": "*",
     "urllib": "2.7.0"
