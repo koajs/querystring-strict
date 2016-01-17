@@ -15,7 +15,7 @@
     "contributors": "contributors -f plain -o AUTHORS"
   },
   "dependencies": {
-    "merge-descriptors": "~0.0.2"
+    "merge-descriptors": "~1.0.1"
   },
   "devDependencies": {
     "autod": "*",
