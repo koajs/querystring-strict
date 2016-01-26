@@ -23,7 +23,7 @@
     "istanbul-harmony": "*",
     "jshint": "*",
     "koa": "*",
-    "mocha": "*",
+    "mocha": "2.4.1",
     "urllib": "2.7.0"
   },
   "homepage": "https://github.com/koajs/querystring-strict",
